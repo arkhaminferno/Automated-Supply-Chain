@@ -11,4 +11,13 @@ A smart Contract where Payments and Dispatch systems might work via the ethereum
 
 - An item gets created via the smart contract and we get an address back of the item via event triggers.
 - A customer has to transfer specific amount of money to the product address.(Its like sending ether from one address to another in order to buy  item).
-- After payment we can do withdrwal that happens by the customer and Dispatch event will trigger.
+- After payment we can do withdrawl that happens by the customer and Dispatch event will trigger.
+
+
+
+# Contributing
+
+- I welcome pull requests, bug fixes and issue reports. Before proposing a change, please discuss your change by raising an issue.
+
+# Author
+- [Kumar Gaurav](https://www.linkedin.com/in/arkhaminferno/)
