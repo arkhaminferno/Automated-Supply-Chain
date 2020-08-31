@@ -2,7 +2,7 @@
 
 ## My Pitch
 As we can see in traditional supply chain systems there are Multiple Parties involved between payment and dispatch and i think in this scenario blockchain could shine.
-A smart Contract where Payments and Dispatch systems might work via the ethereum blockchain.
+A smart Contract where Payments and Dispatch systems might work via event triggers in the ethereum blockchain.
 
 
 ![Alt Text](https://user-images.githubusercontent.com/42605321/91707142-09800880-eb9d-11ea-9336-0452685f9903.png)
