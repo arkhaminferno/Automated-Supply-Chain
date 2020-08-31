@@ -10,5 +10,5 @@ A smart Contract where Payments and Dispatch systems might work via the ethereum
 - lets say a new item that costs 1 ether and we want to track the item via the blockchain and in this case i want to have a specific address where this item can be paid to and that happens by the customer.
 
 - An item gets created via the smart contract and we get an address back of the item via event triggers.
-- A customer has to transfer specific amount of money to the product address.(Its like sending ether from one address to another in order to buy our item).
+- A customer has to transfer specific amount of money to the product address.(Its like sending ether from one address to another in order to buy  item).
 - After payment we can do withdrwal that happens by the customer and Dispatch event will trigger.
