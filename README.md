@@ -19,5 +19,5 @@ A smart Contract where Payments and Dispatch systems might work via event trigge
 
 - I welcome pull requests, bug fixes and issue reports. Before proposing a change, please discuss your change by raising an issue.
 
-# Author
-- [Kumar Gaurav](https://www.linkedin.com/in/arkhaminferno/)
+# Reference
+- [vomtom](https://vomtom.at/)
